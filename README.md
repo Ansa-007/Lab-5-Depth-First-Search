@@ -8,7 +8,7 @@ This professional-grade implementation demonstrates production-ready DFS algorit
 
 ## 🎯 Executive Summary
 
-Depth-First Search (DFS) is a fundamental graph traversal algorithm that explores as far as possible along each branch before backtracking. This implementation provides enterprise-grade DFS solutions with:
+DFS (Depth-First Search) goes as deep as possible down one path before backtracking, using a stack or recursion. This implementation provides enterprise-grade DFS solutions with:
 
 - **Production-Ready Code**: Type hints, error handling, and validation
 - **Multiple Implementations**: Recursive and iterative approaches
@@ -573,4 +573,5 @@ This implementation is provided under the MIT License, allowing for:
 ---
 
 *This professional DFS implementation represents industry best practices for graph traversal algorithms in enterprise environments. For technical support or customization requests, please refer to the contributing guidelines or contact the development team.*
+
 
